@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+    < title> WEB1 - HTML </title>
+</head>
+<body>
+<ul>
+  <li>1. HTML</li>
+  <li>2. CS</li>
+  <li>3. JavaScript</li>
+</ul>
+<ol>
+  <li> HTML</li>
+  <li> CS</li>
+  <li> JavaScript</li>
+</ol>
+<h1> HTML 이란 무엇인가? </h1>
+<h5><u>태연이봉</u></h5>
+<h1><strong> wow </strong></h1>
+ <head> 샤샤샥 </head>
+<body> 샤샤샥 </body>
+<div>  샤샤샥 </div>
+<p><a href="https://www.naver.com/"
+  target="_blank" title="네이버라능"> 심준욱 연습</a></p>
+<p style="margin-top:45px;">심준욱 연습1</p>
+<img src="coding.jpg" width="100" <br><br><br>
+<p style="margin-top:40px;">
+  단락 구분용 마진픽셀 사용하여 더 정교하게 연습내용
+  </<p>
+</body>
+</html>
